@@ -1,1 +1,1 @@
-Здравствуйте после установки проекта качаете все зависимости с файла requirements.txt pip install -r requirements.txt далее запускаете проект python manage.py runserver
+Для начала работы с проектом необходимо установить все зависимости из файла requirements.txt с помощью команды pip install -r requirements.txt. По завершении установки проект запускается командой python manage.py runserver.
